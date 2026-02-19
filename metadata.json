@@ -1,0 +1,5 @@
+{
+  "name": "Shiatsu Practice Manager Pro",
+  "description": "A professional management system for Shiatsu practitioners featuring customer CRM, Google Calendar synced bookings, and fiscal year-end accounting reports based on a structured JSON database.",
+  "requestFramePermissions": []
+}
